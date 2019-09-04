@@ -39,7 +39,7 @@
     "react-native-communications": "2.2.1",
     "react-native-iphone-x-helper": "^1.2.0",
     "react-native-lightbox": "^0.7.0",
-    "react-native-parsed-text": "github:vcrxteam/vcrxteam/react-native-parsed-text#37cf5a640e6313d18a0d8287c523ddab9d04a925",
+    "react-native-parsed-text": "github:vcrxteam/react-native-parsed-text#37cf5a640e6313d18a0d8287c523ddab9d04a925",
     "react-native-video": "4.4.1",
     "uuid": "3.3.0"
   },
